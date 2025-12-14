@@ -8,6 +8,7 @@ public class sorting_logic {
 
         System.out.println("Enter 5 numbers: ");
         for(int i = 0; i < 5;i++) {
+
             numbers[i] = sc.nextInt();
         }
 
